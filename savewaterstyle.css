@@ -1,0 +1,134 @@
+.header{
+    color: white;
+    background-color: green;
+    line-height: 50px;
+    padding-left: 30px;
+    letter-spacing: 10px;
+}
+.header i {
+    letter-spacing: 20px;
+
+}
+.main-content{
+    background-color:#3D6734;
+    color: white;
+    height: 200px;
+   padding-top: 70px;
+}
+.main-content1{
+    padding-top: 50px;
+    height: 100px;
+    color: #3D6734;
+}
+.col{
+    color: #3D6734;
+    padding-left: 70px;
+}
+.col p{
+    color: black;
+}
+.col iframe{ 
+    padding-left: 60px;
+    height: 300px;
+    width: 600px;
+}
+.col{
+    padding-left: 50px;
+}
+.main-content2{
+    text-align: center;
+    height: 400px;
+    background-color:#3D6734;
+    padding-top: 50px;
+    color: white;
+}
+.main-content2 p{
+  padding-top: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+.section{
+    font-size: 50px;
+    text-align: center;
+    color: #3D6734;
+}
+.section p{
+    font-size: 20px;
+    color:gray;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+}
+.container{
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.container img{
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: all ease-in-out 0.5s;
+}
+.container img:hover{
+    width: 35%;
+}
+.container h1{
+    color: green;
+}
+.main-content3{
+    height: 500px;
+    background-color: #3D6734;
+}
+.main-content3 p{
+    color: white;
+}
+.sidebar{
+    height: 500px;
+    background-color: #3D6734;
+    color: white;
+}
+.form-check-label{
+    color: white;
+}
+.sidebar i{
+    letter-spacing: 30px;
+    font-size: 50px;
+    margin-left: 30px;
+
+}
+.sidebar p{
+    padding-left: 70px;
+    padding-top: 30px;
+    font-size: medium;
+}
+.flex-container{
+    display: flex;
+    width: 1510px;
+    height: 230px;
+    background-color:#3D6734;
+    margin-top: 10px;
+    
+
+    
+
+}
+.flex-item{
+    background-color:#3D6734;
+    width: 500px;
+    height: 200px;
+    margin: 10px;
+    color:rgb(36, 3, 3);
+    text-align: center;
+    font-weight: bold;
+}
+.flex-item p{
+    color: white;
+    padding-top: 30px;
+}
